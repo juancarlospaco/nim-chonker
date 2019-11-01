@@ -25,6 +25,14 @@ $ nim c chonker.nim
 - Force writing to `/etc/pacman.d/chonker.conf` with `-d:overwrite`.
 
 
+# Uninstall
+
+If some package is giving you problems or you just want to undo the changes...
+
+- Delete the config file on `/etc/pacman.d/chonker.conf`.
+- Reinstall the package or do an upgrade with pacman.
+
+
 # Stars
 
 ![Star nim-chonker on GitHub](https://starchart.cc/juancarlospaco/nim-chonker.svg "Star nim-chonker on GitHub!")
