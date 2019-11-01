@@ -1,6 +1,4 @@
 {
-  // ".PYC Python bytecode caches on system folders": "usr/**/*.pyc",
-  // "__pycache__ Python bytecode caches on system folders": "usr/**/__pycache__/*",
   "Non-English plain-text help local documentation": "usr/share/doc/* usr/share/help/* !usr/share/help/en*",
   "GTK-Doc HTML help local documentation": "usr/share/gtk-doc/html/*",
   "Non-English Locale translations": "usr/share/locale/* usr/share/X11/locale/* usr/share/i18n/* !*locale*/en*/* !usr/share/i18n/charmaps/UTF-8.gz !usr/share/*locale*/locale.* !usr/share/*locales/en_?? !usr/share/*locales/i18n* !usr/share/*locales/iso* !usr/share/*locales/trans*",
