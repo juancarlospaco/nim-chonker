@@ -1,5 +1,5 @@
 {
-  ".PYC Python bytecode cache files on /usr/bin/ system folder": "/usr/bin/__pycache__/*",
+  ".PYC Python bytecode cache files on /usr/bin/ system folder": "usr/bin/__pycache__/*",
   "Non-English Locale translations": "usr/share/locale/* usr/share/X11/locale/* usr/share/i18n/* !*locale*/en*/* !usr/share/i18n/charmaps/UTF-8.gz !usr/share/*locale*/locale.* !usr/share/*locales/en_?? !usr/share/*locales/i18n* !usr/share/*locales/iso* !usr/share/*locales/trans*",
   "Vim Non-English Locale translations": "usr/share/vim/vim*/lang/*",
   "PGP Non-English plain-text help local documentation": "usr/share/gnupg/help.*.txt",
