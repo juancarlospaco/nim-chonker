@@ -22,7 +22,7 @@
 $ nim c chonker.nim
 ```
 
-- Force writing to `/etc/pacman.d/chonker.conf` with `-d:overwrite`. Your Arch should have `/etc/pacman.d/` or create it.
+- Force writing `/etc/pacman.d/chonker.conf` with `-d:overwrite`. Your Arch should have `/etc/pacman.d/` or create it.
 
 
 # Uninstall
