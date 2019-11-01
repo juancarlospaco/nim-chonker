@@ -61,7 +61,7 @@ I got approx half the size on the Docker Arch image with this trick. YAGNI.
 
 # Contribute without Coding
 
-The core is 1 JSON file, so you can contribute or customize it without even knowing Nim programming.
+The core is 1 JSON file, so you can contribute or customize it without even knowing [Nim programming](https://nim-lang.org/learn.html).
 
 
 # Stars
