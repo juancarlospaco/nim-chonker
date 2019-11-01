@@ -1,6 +1,5 @@
 # Chonker
 
-![Star nim-chonker on GitHub](https://starchart.cc/juancarlospaco/nim-chonker.svg "Star nim-chonker on GitHub!")
 ![](https://img.shields.io/github/languages/top/juancarlospaco/nim-chonker?style=for-the-badge)
 ![](https://img.shields.io/github/languages/count/juancarlospaco/nim-chonker?logoColor=green&style=for-the-badge)
 ![](https://img.shields.io/github/stars/juancarlospaco/nim-chonker?style=for-the-badge "Star nim-chonker on GitHub!")
@@ -24,3 +23,8 @@ $ nim c chonker.nim
 ```
 
 - Force writing to `/etc/pacman.d/chonker.conf` with `-d:overwrite`.
+
+
+# Stars
+
+![Star nim-chonker on GitHub](https://starchart.cc/juancarlospaco/nim-chonker.svg "Star nim-chonker on GitHub!")
