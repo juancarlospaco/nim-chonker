@@ -41,6 +41,11 @@ but Docker image file size and SSD free space on VPS or Cloud is always a cool f
 I got approx half the size on the Docker Arch image with this trick.
 
 
+# Requisites
+
+- Arch Linux.
+
+
 # Stars
 
 ![Star nim-chonker on GitHub](https://starchart.cc/juancarlospaco/nim-chonker.svg "Star nim-chonker on GitHub!")
