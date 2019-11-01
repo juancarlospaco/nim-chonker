@@ -59,6 +59,11 @@ I got approx half the size on the Docker Arch image with this trick. YAGNI.
 - Arch Linux, and understand how Arch Linux and pacman works.
 
 
+# Contribute without Coding
+
+The core is 1 JSON file, so you can contribute or customize it without even knowing Nim programming.
+
+
 # Stars
 
 ![Star nim-chonker on GitHub](https://starchart.cc/juancarlospaco/nim-chonker.svg "Star nim-chonker on GitHub!")
