@@ -17,5 +17,3 @@ when isMainModule:
   echo $pacmanconf.countLines & " Pacman Optimizations --> " & newfile
   when defined(overwrite): moveFile(newfile, "/etc/pacman.d/chonker.conf")
   else: echo "\nsudo mv --force " & newfile & " /etc/pacman.d/chonker.conf\n"
-  if readLineFromStdin("Suicide, Delete Itself ? (y/N): ").normalize == "y":
-    echo tryRemoveFile(getCurrentDir() / "chonker")
