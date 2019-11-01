@@ -16,6 +16,20 @@
 ![](https://raw.githubusercontent.com/juancarlospaco/nim-chonker/master/temp.png "Does NOT run 'sudo mv', just prints the command for you")
 
 
+# Use
+
+```
+$ chonker
+```
+
+- Reply `n` or `y`.
+
+
+# Install
+
+- `nimble install chonker`
+
+
 # Compile
 
 ```
@@ -43,7 +57,7 @@ I got approx half the size on the Docker Arch image with this trick. YAGNI.
 
 # Requisites
 
-- Arch Linux.
+- Arch Linux, and understand how Arch Linux and pacman works.
 
 
 # Stars
