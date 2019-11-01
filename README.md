@@ -38,7 +38,7 @@ If some package is giving you problems or you just want to undo the changes...
 People nowadays checks documentation online, so theres no point on shipping it with the packages,
 some packages even have images, photos, PDFs, CSS and JS frameworks for HTML documentations,
 but Docker image file size and SSD free space on VPS or Cloud is always a cool feature,
-I got approx half the size on the Docker Arch image with this trick.
+I got approx half the size on the Docker Arch image with this trick. YAGNI.
 
 
 # Requisites
