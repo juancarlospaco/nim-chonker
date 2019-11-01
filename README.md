@@ -43,8 +43,7 @@ $ nim c chonker.nim
 
 If some package is giving you problems or you just want to undo the changes...
 
-- Delete the config file on `/etc/pacman.d/chonker.conf`.
-- Reinstall the package or do an upgrade with pacman.
+- Delete `/etc/pacman.d/chonker.conf` and do an upgrade with pacman.
 
 
 # Why
