@@ -1,2 +1,3 @@
-# nim-chonker
-Your Arch Linux is too fat
+# Chonker
+
+- Chonker: Your Arch Linux is too fat. Lets make it lightweight...
