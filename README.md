@@ -33,6 +33,8 @@ $ chonker
 # Compile
 
 ```
+$ git clone https://github.com/juancarlospaco/nim-chonker.git
+$ cd nim-chonker/src/
 $ nim c chonker.nim
 ```
 
