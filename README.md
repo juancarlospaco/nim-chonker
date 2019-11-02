@@ -22,7 +22,7 @@
 $ chonker
 ```
 
-- Reply `n` or `y`.
+- Reply `n` or `y`. Output is only 1 INI file.
 
 
 # Install
