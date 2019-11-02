@@ -34,7 +34,7 @@ $ nimble install chonker
 
 # Download
 
-- https://github.com/juancarlospaco/nim-chonker/releases
+- https://github.com/juancarlospaco/nim-chonker/releases Just download and run.
 
 
 # Compile
