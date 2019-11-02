@@ -27,7 +27,9 @@ $ chonker
 
 # Install
 
-- `nimble install chonker`
+```
+$ nimble install chonker
+```
 
 
 # Compile
@@ -43,7 +45,7 @@ $ nim c chonker.nim
 
 # Uninstall
 
-- If you want to undo the changes, delete `/etc/pacman.d/chonker.conf` and do an upgrade with pacman.
+- If you want to undo the changes, delete `/etc/pacman.d/chonker.conf` and do an upgrade with `pacman`.
 
 
 # Why
@@ -56,7 +58,7 @@ I got approx half the size on the Docker Arch image with this trick. YAGNI.
 
 # Requisites
 
-- Arch Linux, understand how Arch and pacman works. For Docker apply the config *before* image build.
+- Arch Linux, understand how Arch and `pacman` works. For Docker apply the config *before image build*.
 
 
 # Contribute without Coding
@@ -66,4 +68,4 @@ The core is 1 JSON file, so you can contribute or customize it without even know
 
 # Stars
 
-![Star nim-chonker on GitHub](https://starchart.cc/juancarlospaco/nim-chonker.svg "Star nim-chonker on GitHub!")
+![Star nim-chonker on GitHub](https://starchart.cc/juancarlospaco/nim-chonker.svg "Star Chonker on GitHub!")
