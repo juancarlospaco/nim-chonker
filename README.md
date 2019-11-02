@@ -58,7 +58,7 @@ I got approx half the size on the Docker Arch image with this trick. YAGNI.
 
 # Requisites
 
-- [Arch Linux](https://www.archlinux.org), understand `pacman`. For Docker apply the config *before image build*. Dont need Nim after compile.
+- [Arch Linux](https://www.archlinux.org), know how to use `pacman`. For Docker apply the config *before image build*. Dont need Nim after compile.
 
 
 # Contribute without Coding
