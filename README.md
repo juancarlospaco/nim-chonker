@@ -32,6 +32,11 @@ $ nimble install chonker
 ```
 
 
+# Download
+
+- https://github.com/juancarlospaco/nim-chonker/releases
+
+
 # Compile
 
 ```
