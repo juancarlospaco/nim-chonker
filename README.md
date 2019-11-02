@@ -11,7 +11,7 @@
 ![](https://img.shields.io/github/last-commit/juancarlospaco/nim-chonker?style=for-the-badge "Commits")
 
 - **Arch Linux Pacman Optimizer**: Your Arch Linux is too fat, lets make it lightweight...
-- 1 File, 0 Dependency, no config, no setup, 15 lines of code, wont run scripts, does **NOT overwrite any config** by default.
+- 1 File, 0 Dependency, 99Kb, no config, no setup, 15 lines of code, wont run scripts, does **NOT overwrite any config** by default.
 
 ![](https://raw.githubusercontent.com/juancarlospaco/nim-chonker/master/temp.png "Does NOT run 'sudo mv', just prints the command for you")
 
