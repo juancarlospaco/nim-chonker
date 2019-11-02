@@ -56,7 +56,7 @@ I got approx half the size on the Docker Arch image with this trick. YAGNI.
 
 # Requisites
 
-- Arch Linux, and understand how Arch Linux and pacman works.
+- Arch Linux, understand how Arch and pacman works. For Docker apply the config *before* image build.
 
 
 # Contribute without Coding
