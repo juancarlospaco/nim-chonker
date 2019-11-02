@@ -50,7 +50,7 @@ $ nim c chonker.nim
 
 # Uninstall
 
-- If you want to undo the changes, delete `/etc/pacman.d/chonker.conf` and do an upgrade with `pacman`.
+- If you want to undo the changes, delete `/etc/pacman.d/chonker.conf` and force an upgrade with `pacman`.
 
 
 # Why
